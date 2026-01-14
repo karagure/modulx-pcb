@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"XTAL1";"XTAL_ABLS7M2_ABR";1;"ABLS7M2-12.000MHZ-D-2Y-T";;;
+2;"J2";"AMPHENOL_GSB1C41110SSHR";1;"GSB1C41110SSHR";;;
+3;"R3";"R_0201_0603Metric";1;"1kΩ";;;
+4;"J5,J4,J3,J1";"MOLEX_532610471";4;"532610471";;;
+5;"F1";"FUSC2113X125N";1;"0ZCK0050FF2E";;;
+6;"U4";"SOT95P285X140-5N";1;"AP2112K-3.3TRG1";;;
+7;"C5,C4";"CP_EIA-1608-08_AVX-J";2;"C_Polarized";;;
+8;"U3";"SOT-23-6";1;"USBLC6-2SC6";;;
+9;"U2";"ESP32-C3-WROOM-02U";1;"ESP32-C3-WROOM-02U";;;
+10;"R1,R2";"R_0201_0603Metric";2;"27ohm";;;
+11;"C3";"C_0201_0603Metric";1;"100nF";;;
+12;"C1";"C_0201_0603Metric";1;"0.1µF";;;
+13;"U1";"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";1;"RP2040";;;
+14;"C2";"C_0201_0603Metric";1;"10µF";;;
